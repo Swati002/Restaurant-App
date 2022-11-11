@@ -4,6 +4,7 @@
     font-size: x-large;
     margin-top: 25px;
     font-family: cursive;
+    color: var(--green-1);
 }
 
 .ourStory__wrapper {
