@@ -6,9 +6,6 @@
 
 ---
 
-### Made with ❤️ by [Manik Bhatia]
-
----
-
 There is 5 pages in the website (HomePage, MenuPage, AboutPage, ContactPage, BookingPage). The website consists of a homepage containing information about the various services offered, important clients and contact details. The site further has an order book page that asks for specific details pertaining to the order that you want to place.
 
+---
